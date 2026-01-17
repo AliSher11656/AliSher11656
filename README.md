@@ -1,4 +1,4 @@
-![logo](https://github.com/AliSher11656/alisher/blob/fed652009fd792f435dcf1b8e4a62e5c9ce567e5/Ali%20sher.png)
+![logo](https://github.com/AliSher11656/AliSher11656/blob/68ac08848eee7f5d4ad9a34c3e2b06d8bf191842/Ali%20sher.png)
 
 <h1 align="center">Hi 👋, I'm Ali Sher</h1>
 <h3 align="center">Data Science Graduate | Machine Learning • Analytics • Python</h3>
